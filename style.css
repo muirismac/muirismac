@@ -1,0 +1,8 @@
+/* Apply a red background to the entire body */
+body {
+    background-color: red;
+    color: white; /* Optional: Makes text more readable on a red background */
+    margin: 0;
+    padding: 0;
+    font-family: baskerville, serif;
+}
